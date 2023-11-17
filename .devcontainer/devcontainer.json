@@ -12,11 +12,6 @@
          "eventyret.bootstrap-4-cdn-snippet",
          "esbenp.prettier-vscode",
          "matt-rudge.auto-open-preview-panel",
-         "ms-toolsai.jupyter",
-         "ms-toolsai.jupyter-keymap",
-         "ms-toolsai.jupyter-renderers",
-         "bierner.markdown-preview-github-styles",
-         "gydunhn.vsc-essentials-core"
  
        ],
        "settings": {
@@ -51,17 +46,11 @@
          "editor.formatOnType": false,
          "editor.formatOnSave": false,
          "editor.formatOnPaste": false,
-         "[markdown]":{
-            "editor.defaultFormatter":"bierner.markdown-preview-github-styles"
-         },
          "[json]":{
             "editor.defaultFormatter":"vscode.json-language-features"
          },
          "[jsonc]":{
             "editor.defaultFormatter":"vscode.json-language-features"
-         },
-         "[xml]":{
-            "editor.defaultFormatter":"DotJoshJohnson.xml"
          },
          "[javascript]":{
             "editor.defaultFormatter":"vscode.typescript-language-features"
